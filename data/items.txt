@@ -1,0 +1,3 @@
+bebida,20000,0
+galletas,10000,20
+papas fritas,15000,0

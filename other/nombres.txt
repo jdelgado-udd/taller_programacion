@@ -1,0 +1,5 @@
+juan:15
+felipe:0
+joaco:1
+jesucristo:100
+Juan: 100
