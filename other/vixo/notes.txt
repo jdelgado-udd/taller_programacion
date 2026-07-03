@@ -1,0 +1,9 @@
+Clases.py, Linea 46 a 53 -> Debes de usar self en lugar de Estudiante,
+pues utilizar Estudiante crea un atributo de clase que se comparte con
+todos los objetos, y usando self se aplica el valor al objeto actual.
+
+Clases.py, Lineas 34, 64 y 87 -> Haces un override a __str__ en lugar de
+a __repr__, esto provoca que se imprima una dirección de memoria donde
+quieres un texto legible de acuerdo al comportamiento por defecto de
+Python, solo es recomendación cambiarlo.
+

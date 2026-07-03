@@ -1,0 +1,4 @@
+fecha, tienda, producto, cantidad, precio_unitario
+2024-01-15, tienda1, productoA, 10, 20.5
+2024-01-15, tienda1, productoB, 5, 15.0
+2023-05-16, tienda2, ProductoC, 2, 4.5

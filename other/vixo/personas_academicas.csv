@@ -1,0 +1,10 @@
+tipo,rut,nombre,apellido,carrera_departamento,asignatura,nota1,nota2,nota3,asistencia,horas_contrato,correo
+ALUMNO,21345678-4,Valentina,Muñoz,Ingeniería Civil Informática,Taller de Programación,6.1,5.8,6.4,92,,valentina.munoz@udpro.cl
+ALUMNO,20987654-K,Martín,Rojas,Ingeniería Civil Informática,Taller de Programación,4.2,3.8,4.5,81,,martin.rojas@udpro.cl
+ALUMNO,22111222-9,Camila,Fernández,Ingeniería Civil Informática,Base de Datos,5.5,5.9,6.0,88,,camila.fernandez@udpro.cl
+ALUMNO,21888999-9,Tomás,Sepúlveda,Ingeniería Civil Informática,Base de Datos,3.4,4.0,3.7,74,,tomas.sepulveda@udpro.cl
+ALUMNO,21666777-8,Sofía,Contreras,Ingeniería Civil Informática,Desafíos de la Informática,6.8,6.5,6.9,96,,sofia.contreras@udpro.cl
+ALUMNO,21444555-7,Benjamín,Araya,Ingeniería Civil Informática,Desafíos de la Informática,4.8,5.1,4.6,85,,benjamin.araya@udpro.cl
+PROFESOR,13999888-K,Carolina,Silva,Facultad de Ingeniería,Taller de Programación,,,,,22,carolina.silva@udpro.cl
+PROFESOR,12555666-3,Pablo,Herrera,Facultad de Ingeniería,Base de Datos,,,,,18,pablo.herrera@udpro.cl
+PROFESOR,11888777-8,Marcela,Vega,Facultad de Ingeniería,Desafíos de la Informática,,,,,12,marcela.vega@udpro.cl
